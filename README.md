@@ -17,5 +17,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://github.com/34306/iPA/blob/main/100gf.jpg?raw=true');
+background: url('https://github.com/phamduc61/vps_test/blob/main/127073-737747499_medium%20(1).gif?raw=true');
 "]{}
